@@ -5,7 +5,8 @@ It's very simple also for people at the first time! ;)
 
 # ATTENTION 
 To execute this script you need Telepot library:
-'''
+```
 sudo pip install telepot
-'''
+```
+
 For more information visit: https://github.com/nickoala/telepot
